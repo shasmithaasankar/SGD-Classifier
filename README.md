@@ -7,10 +7,16 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import Necessary Libraries and Load Data
+
+2.Split Dataset into Training and Testing Sets
+
+3.Train the Model Using Stochastic Gradient Descent (SGD)
+
+4.Make Predictions and Evaluate Accuracy
+
+5.Generate Confusion Matrix
+ 
 
 ## Program:
 ```
@@ -76,10 +82,9 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/e8ee23a3-a842-477f-8699-f7df7275011c)
-![image](https://github.com/user-attachments/assets/9fe9c1f0-b933-4a18-929a-e85599a075ec)
-![image](https://github.com/user-attachments/assets/c162b316-a71b-4665-abbf-602be1a1a6d5)
-![image](https://github.com/user-attachments/assets/8d4f048b-9ecb-4bdc-8b1f-b6e6f5735158)
+![image](https://github.com/user-attachments/assets/2dc9e5c9-7f0c-4662-9b99-12a50ab4a506)
+![image](https://github.com/user-attachments/assets/e56bd330-59ae-4a59-8d86-0c895d48be6f)
+
 
 
 
