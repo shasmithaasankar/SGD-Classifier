@@ -13,6 +13,7 @@ To write a program to predict the type of species of the Iris flower using the S
 4. 
 
 ## Program:
+```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: Shasmithaa Sankar
@@ -72,6 +73,7 @@ plt.show()
 
 
 */
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/e8ee23a3-a842-477f-8699-f7df7275011c)
